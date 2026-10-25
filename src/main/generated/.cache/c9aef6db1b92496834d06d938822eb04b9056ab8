@@ -1,0 +1,7 @@
+// 1.20.1	2026-10-18T23:03:29.4751864	Moar Concrete (Unofficial 1.20.1 Backport)/Tags for minecraft:block
+a99028cbcd69fbf0a0171acc2cd9f3f5cd463df2 data\minecraft\tags\blocks\walls.json
+85edc6b3441d4e2cae7e2ebad2520a08eae4117a data\minecraft\tags\blocks\buttons.json
+c822c7170dd1f0368c285e72f2ecbf078e327527 data\minecraft\tags\blocks\fences.json
+571cd7e9da59cae3dc7ae35e35e944e2f1e697c2 data\minecraft\tags\blocks\needs_stone_tool.json
+571cd7e9da59cae3dc7ae35e35e944e2f1e697c2 data\minecraft\tags\blocks\mineable\pickaxe.json
+52122a4fbf4a0ababae64b5516854f5ed6274675 data\minecraft\tags\blocks\fence_gates.json
